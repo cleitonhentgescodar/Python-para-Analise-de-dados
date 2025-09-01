@@ -1,4 +1,5 @@
 📂 Estrutura do Repositório
+
 🔹 1. Meu Primeiro Algoritmo Python
 
 Introdução ao Python, abordando conceitos básicos de programação e primeiros algoritmos para manipulação de dados.
