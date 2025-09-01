@@ -38,7 +38,5 @@ Python 3
 Pandas
 NumPy
 Scikit-learn
-
 SciPy
-
 Jupyter Notebook
